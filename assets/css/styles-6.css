@@ -226,6 +226,10 @@ p {
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
+  height: 60px;
+}
+.main-wrapper .projects-section .pull-left {
+    margin-right: 15px;
 }
 .skillset .item {
   margin-bottom: 15px;
